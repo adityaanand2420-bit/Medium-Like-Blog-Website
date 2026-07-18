@@ -1,0 +1,16 @@
+{
+  "name": "@adityaworkspace24/medium-common",
+  "version": "1.0.6",
+  "description": "this package is for importing types for typeSafety for my medium-like blog website",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "zod": "^4.4.3"
+  }
+}
